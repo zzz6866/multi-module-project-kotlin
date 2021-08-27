@@ -13,7 +13,7 @@ Spring Boot(Kotlin) + Gradle(Kotlin DSL) + H2 Database + 멀티모듈
 - develop : 구성해야 하나 고민...
 - production : 운영 환경
 
-## `properties` => `yaml`
+## `properties` => `yaml` (예정)
 - 환경변수 yaml로 변경
 - 중복되는 코드를 정리하여 보기 쉬운 구조로 변경
 
