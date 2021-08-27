@@ -21,5 +21,4 @@ Spring Boot(Kotlin) + Gradle(Kotlin DSL) + H2 Database + 멀티모듈
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Kotlin](https://kotlinlang.org/)
 - [Gradle Kotlin DSL Primer](https://docs.gradle.org/current/userguide/kotlin_dsl.html)
-- [Spring Boot](link:https://spring.io/projects/spring-boot)
 - [Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
