@@ -8,6 +8,6 @@ pluginManagement {
  * module-web : FO, 데이터 확인용 웹
  * module-batch : Batch 개발
  */
-rootProject.name = "pick-stock"
+rootProject.name = "parent-module"
 include("module-web")
 include("module-common")
