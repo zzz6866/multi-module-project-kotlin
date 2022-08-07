@@ -24,7 +24,7 @@ subprojects {
         plugin("io.spring.dependency-management")
     }
 
-    group = "kr.co.alldev"
+    group = "com.example"
     version = "0.0.1-SNAPSHOT"
     java.sourceCompatibility = JavaVersion.VERSION_1_8
 
