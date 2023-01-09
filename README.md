@@ -5,7 +5,7 @@ Spring Boot(Kotlin) + Gradle(Kotlin DSL) + H2 Database + 멀티모듈
 
 ## 멀티모듈 프로젝트
 - MSA 구성에 많이 활용되는 프로젝트 구조
-- Core(Common) + Web, Core(Common) + API, Core(Common) + Batch 등 여러 환경의 시스템을 나누어 개발이 되는데 코어(공통)은 다른 시스템에서도 쓰기 떄문에 취합함
+- Core(Common) + Web, Core(Common) + API, Core(Common) + Batch 등 여러 환경의 시스템을 나누어 개발이 되는데 코어(공통)은 다른 시스템에서도 쓰기 때문에 공통(코어)으로 통합하여 사용
 - Core(Common)을 도메인별로도 나뉘어서 사용도 가능하다(MSA 구조를 위한 분할)
 
 ## 프로파일
